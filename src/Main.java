@@ -25,8 +25,9 @@ public class Main {
 
         System.out.println("\n\n======== Resultados =======\n\n");
         System.out.printf("Soma: %.2f\nSubtração: %.2f\n", soma, subtracao);
-        System.out.println("Divisão "+numero1+"/"+numero2+": "+divisao);
-        System.out.printf("Raiz de %.4f: %.2f\nRaiz de %.4f: %.2f\n", numero1, raiz1,numero2, raiz2);
+        System.out.println("Divisão "+numero1+" / "+numero2+": "+divisao);
+        System.out.println("Divisão "+numero1+" * "+numero2+": "+multiplicacao);
+        System.out.printf("Raiz de %.2f: %.2f\nRaiz de %.2f: %.2f\n", numero1, raiz1,numero2, raiz2);
         System.out.println("===========================");
     }
 }
