@@ -29,5 +29,7 @@ public class Main {
         System.out.println("Divisão "+numero1+" * "+numero2+": "+multiplicacao);
         System.out.printf("Raiz de %.2f: %.2f\nRaiz de %.2f: %.2f\n", numero1, raiz1,numero2, raiz2);
         System.out.println("===========================");
+
+        sc.close();
     }
 }
