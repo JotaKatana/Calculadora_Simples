@@ -36,7 +36,7 @@ Este projeto é voltado na utilização de autodesenvolvimento em java, projeto 
 
 - [X] Resultado:
 
-![Inter 1](https://github.com/MatheusAlvarez/Calculadora_Simples/blob/main/_assets/Inter1.PNG)
+![Inter 1](https://github.com/JotaKatana/Calculadora_Simples/blob/master/_assets/Inter1.PNG)
 
 ---
 
