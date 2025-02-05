@@ -22,7 +22,7 @@
 
 ## 💻 Sobre o projeto
 
-Este projeto é voltado na utilização de autodesenvolvimento em java, projeto com intuito de utilizar valores optidos de um cliente que vai receber valores em decimais (double - escolhido pois não tenho necessidade de usar pouca carga de bytes), os valores obtidos vão ser utilizados pela maquina e resultaram em alguma contas aritimeticas simples. Resultando assim em resultado de Soma, Subtração, Divisão, Multiplicação, Raiz do Numero 1 e Raiz do numero 2.
+Este projeto é voltado na utilização de autodesenvolvimento em java, projeto com intuito de utilizar valores obtidos de um cliente que vai receber valores em decimais (double - escolhido, pois não tenho necessidade de usar pouca carga de bytes), os valores obtidos vão ser utilizados pela máquina e resultaram em alguma conta aritméticas simples. Resultando assim em resultado de Soma, Subtração, Divisão, Multiplicação, Raiz do número 1 e Raiz do número 2.
 
 ---
 
